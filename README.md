@@ -1,0 +1,1 @@
+# Desafios-GFT-QA-Combina-o-de-strings
